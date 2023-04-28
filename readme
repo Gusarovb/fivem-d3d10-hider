@@ -2,3 +2,6 @@ For this you will need basic python knowelage,or just ask chatgpt what to do if 
 
 to convert from .py to .exe type:
 pyinstaller lmao.py --onefile --icon=quiet.ico
+
+Tutorial:
+https://streamable.com/btw35f
